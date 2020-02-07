@@ -8,6 +8,8 @@
 # install dependencies
 $ npm install
 
+#Direrct do command below (npm audit fix still make error until finish research it)
+
 # serve with hot reload at localhost:3000
 $ npm run dev
 
